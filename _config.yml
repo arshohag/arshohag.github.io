@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "AR"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Ashiqur Rahman"
+description              : "Salad & Kabab about Web Technologies"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -68,10 +68,10 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : Ar_shohag
 facebook:
-  username               :
-  app_id                 :
+  username               : arshohag2
+  app_id                 : 
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
@@ -90,24 +90,24 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Ashiqur Rahman"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "Someone who always do something"
   location         : "Somewhere"
-  email            :
+  email            : arshohag8@gmail.com
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
-  bitbucket        :
+  bitbucket        : arshohag
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : arshohag2
   foursquare       :
-  github           :
+  github           : arshohag
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : arsh0hag
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
